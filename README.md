@@ -10,6 +10,6 @@ https://www.youtube.com/watch?v=rbH_aIqSuD4&list=PL3SJ9G_UNo6cVB8kKh8Bch7axJdtuO
 
 1. Currently reads in static data our coinmarketcap .csvs. Could implement realtime API calls in future.
 
-### Techstack:
+## Techstack:
 
 Streamlit for UI, Timescale for DB, OpenAI API for GPT-o
